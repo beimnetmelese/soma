@@ -310,7 +310,7 @@ const App = () => {
               <motion.button
                 whileHover={{ scale: 1.05, y: -2 }}
                 whileTap={{ scale: 0.95 }}
-                className="px-6 py-2 bg-gradient-to-r from-[#C41E3A] to-[#8B0000] text-white text-sm font-medium rounded-full shadow-lg hover:shadow-xl transition-all duration-300"
+                className="px-6 py-2 bg-gradient-to-r from-[#FF4D6D] to-[#FFB347] text-white text-sm font-medium rounded-full shadow-lg hover:shadow-xl transition-all duration-300"
               >
                 Reserve Table
               </motion.button>
@@ -419,7 +419,7 @@ const App = () => {
                 className="group relative px-10 py-4 bg-white text-gray-900 font-semibold text-lg tracking-wide overflow-hidden rounded-full shadow-2xl hover:shadow-3xl transition-all duration-300"
               >
                 <span className="relative z-10">Explore Our Menu</span>
-                <div className="absolute inset-0 bg-gradient-to-r from-[#C41E3A] to-[#8B0000] transform -translate-x-full group-hover:translate-x-0 transition-transform duration-500"></div>
+                <div className="absolute inset-0 bg-gradient-to-r from-[#FF4D6D] to-[#FFB347] transform -translate-x-full group-hover:translate-x-0 transition-transform duration-500"></div>
               </motion.button>
 
               <motion.button
